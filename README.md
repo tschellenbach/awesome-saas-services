@@ -112,7 +112,7 @@ An end-to-end solution for all your image-related needs.
 
 [LoginRadius](https://www.loginradius.com) - Managed User Authentication service, super easy implementation, powerful User Management, rich analytics, user import, third party business apps integration, 24x7 Support, and many more. For developers FREE tier available. 
 
-[Digits](https://get.digits.com) - Grow and verify users around the world. Digits helps you onboard your mobile app users with simple phone number authentication so you can build safe, viral communities. Don’t ask people to create passwords they’ll forget - delight them with a quick and easy login experience.
+[Digits](https://digits.com) - Grow and verify users around the world. Digits helps you onboard your mobile app users with simple phone number authentication so you can build safe, viral communities. Don’t ask people to create passwords they’ll forget - delight them with a quick and easy login experience.
 
 ## Content Delivery Networks (CDNs)
 
