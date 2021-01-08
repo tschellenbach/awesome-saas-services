@@ -106,6 +106,8 @@ An end-to-end solution for all your image-related needs.
 
 [Applozic](https://www.applozic.com/) - Chat API & In-App Messaging SDK for Mobile & Web Apps. Innovate fast, save development cost and delight users with a scalable, secure and customizable Chat.
 
+[Form2Channel](https://form2channel.com/) - Free service to receive html form submissions directly to Google Sheets, Email, Slack, Telegram or Http. No coding necessary.
+
 ## Authentication
 
 [Auth0](https://auth0.com) - Add authentication to your web and mobile apps in under 10 minutes.
